@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Juliet Mutinda. I am a growing _fullstack developer_. I love working with python/Django and data manipulation technologies like pandas, matplotlib and beautiful soup, just to mention a few. I have worked on a few projects so far that include the use of technologies such as HTML, CSS, JavaScript, Python, and PHP.
+My name is Juliet Mutinda. I am a growing _fullstack developer_. I love working with python/Django and data manipulation tools like pandas, matplotlib and beautiful soup, just to mention a few. I have worked on a few projects so far that include the use of technologies such as HTML, CSS, JavaScript, Python, and PHP.
 
 
 Here's what's up with me:
@@ -19,4 +19,4 @@ How to reach me:
 
 
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love watching rugby or watching movies when i'm not working on development.
+⚡ Fun fact: I love watching rugby or watching movies when i'm not working on development.
