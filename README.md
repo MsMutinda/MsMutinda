@@ -6,7 +6,7 @@ My name is Juliet Mutinda. I am a growing _fullstack developer_. I love working 
 
 Here's what's up with me:
 
-- 🔭 I’m currently working on getting to know the Laravel framework's ins and outs better.
+- 🔭 I’m currently working on a project to help with getting to know the Laravel framework's ins and outs better.
 - 🌱 I’m currently learning React Js and technical writing.
 - 👯 I’m looking to collaborate on any open source or other projects that can help me be an amazing developer.
 <!-- - 🤔 I’m looking for help with ... -->
