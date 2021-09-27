@@ -19,4 +19,4 @@ How to reach me:
 
 
 <!-- - 😄 Pronouns: ... -->
-⚡ Fun fact: I love watching rugby or watching movies when i'm not coding.
+⚡ Fun fact: I love watching movies/listening to music/watching rugby when i'm not coding.
