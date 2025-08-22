@@ -1,18 +1,16 @@
-### Hi there 👋👋
+Hello, and welcome! 👋
+
+I am Juliet Mutinda, a seasoned full-stack developer with a strong focus on building scalable, efficient, and user-centric web applications. I possess extensive experience in building with frameworks such as .NET, Next.js, and NestJS, and have a keen interest in leveraging cutting-edge technologies to deliver high-quality solutions.
+
+A few things about me:
+
+🔭 I'm continually refining my skills through complex projects that push my technical boundaries and help me in optimizing performance and building robust, enterprise-grade applications.
+
+👯 I'm open to collaborating on open-source projects and innovative initiatives that foster growth and drive impactful change in the tech community.
+
+⚡ Fun fact: When I'm not coding, you can find me enjoying movies, listening to music, or getting lost in a good book.
 
 
-My name is Juliet Mutinda, a _fullstack developer_. I have practical experience in the use of web frameworks such as laravel, .NET, & django, and technologies such as HTML, CSS, JavaScript, and jQuery.
+Let's connect:
 
-
-Here's what's up with me:
-
-- 🔭 I am always working on improving my skills by building projects that can help with getting to learn the ins and outs of a concept better.
-- 🌱 I am currently learning React and Node Js.
-- 👯 I’m looking to collaborate on any open source or other projects that can help me continue growing into an amazing developer.
-
-
-How to reach me: 
-- LinkedIn: https://www.linkedin.com/in/juliemutinda
-
-
-⚡ Fun fact: I love watching movies/listening to music/reading books when i'm not coding.
+LinkedIn: https://www.linkedin.com/in/juliemutinda
